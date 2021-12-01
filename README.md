@@ -1,6 +1,6 @@
-# flutter_application_1
+# CountIt app
 
-A new Flutter project.
+A mobile app that can count objects automatically using edge detection algorithm.
 
 ## Getting Started
 
